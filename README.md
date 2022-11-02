@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [American Express Kaggle Competition](https://www.kaggle.com/competitions/amex-default-prediction)
+- 🔭 I’m currently working on **AutoML - an automated Machine Learning Pipeline**
 
 - 🌱 I’m currently learning **Pytorch**
 
