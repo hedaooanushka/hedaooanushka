@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **AutoML - an automated Machine Learning Pipeline**
-
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Multimodal Probabilistic Learning of Human Communication**
 
 - 👯 I’m looking to collaborate on **Kaggle**
-
-- 📫 How to reach me **hedaooanushka@gmail.com**
+  
+- 🏆 Recent achievement **2nd prize winner in HackUTD: Ripple Effect (USA's 2nd largest hackathon) in Goldman Sachs track.**
+  
+- 📫 How to reach me **mailanushka68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
